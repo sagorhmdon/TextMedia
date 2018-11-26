@@ -1,4 +1,4 @@
-# TextMedia / MediaText
+# ~~TextMedia~~ / MediaText
 This Library for your note application or any kind of rich media Edittext application. You can add image or video or any kind of file add 
 into your edittext/MediaText xml file.
 for use it use in your root build.gradle
