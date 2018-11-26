@@ -19,4 +19,26 @@ dependencies {
 	}
   ```
   
-  Happy coading. 
+# Feature and Methods Introduction
+
+> setEditorFontSize(int value); // Font size as your requirement
+> setEditorFontColor(Color.GRAY); // Font Color As your requirement
+> setPadding(left, top, right, bottom); // you can use padding as you want
+> setPlaceholder("Your text here..."); // you can set hint using this method
+
+# Media Method
+
+> insertImage("link","alt"); // insert image in cursor position
+> insertVideos("link","name"); // insert video in cursor position
+
+** lets get back html 
+
+ ``` setOnTextChangeListener(new MediaText.OnTextChangeListener() {
+            @Override public void onTextChange(String text) {
+                //text will give you html code
+	
+            }
+        });
+ ```
+ 
+ Happy coding
