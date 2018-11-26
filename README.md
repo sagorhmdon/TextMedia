@@ -15,7 +15,7 @@ and add in your depedience
 
 ```java
 dependencies {
-	  implementation 'com.github.sagorhmdon:TextMedia:Tag'
+	  implementation 'com.github.sagorhmdon:TextMedia:1.0'
 	}
   ```
   
